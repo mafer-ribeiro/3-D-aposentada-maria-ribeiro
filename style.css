@@ -1,0 +1,43 @@
+h1 {color: brown;
+}
+h1 { font-size: 150%;
+}
+h1 {text-align: center;
+}
+h2 {color: black;
+}
+h2 {text-align: left;
+}
+// <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 400 to 900
+
+h1 { 
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+h1 {border-style: solid;
+           border-color: rgb(30, 255, 0) ;
+            border-width: 5px; 
+            color: red;  
+        }
+        body {background-color: rgb(37, 5, 56);
+        }
+        h1 {margin-left: 30%;
+               margin-right: 20%;  
+            }
+            h1 {padding-left: 10%;
+            } 
+h2 {font-size: 150%;
+    text-align: center;
+    color: red;
+}
+
+h3 {font-size: 150%;
+    text-align: center;
+    color: red;
+}
+
+
+
